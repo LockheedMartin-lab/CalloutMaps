@@ -7,5 +7,6 @@ Use:
 Don't change the names of the subfolders of 2D maps & 3D maps or the images, you can change the name of the mainfolder though. 
 
 Download:
-You only need to download the folder CalloutMaps ^^
-12: top; 6: bottom (for easier use) 
+You only need to download the folder CalloutMaps ^^ 
+
+12: top; 6: bottom (for easier use)
