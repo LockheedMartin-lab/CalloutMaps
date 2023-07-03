@@ -13,8 +13,7 @@ $${\color{red}The \space callouts \space for \space the \space two \space map \s
 That's why you have to choose which one you want to use as a team, the 2D version is the one that for example Hens' team uses, the 3D versions are easier to understand though (especially for beginners). There are generally no uniform callouts for the clock system, so it is quite common that different teams use different versions. 
 
 ### Download: 
-If you download the desktop verion of Github you can automatically update the files by [cloning the repository](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop), otherwise you have to download them again after a new map gets released. 
-
+If you download the desktop verion of Github you can automatically update the files by [cloning the repository](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop), otherwise you have to download them again after a new map gets released.  
 If you choose to download them normally you only need the folder CalloutMaps (or the subfolder 2D/3D) ^^
 
 ## Licence
