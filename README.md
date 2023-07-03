@@ -3,7 +3,7 @@
 ## General
 Webinterface altered to accept different images than the initial version. 
 The [original Files](https://dbdl.floliroy.fr/maps/) (HTML&2D images) were from a [Discord server](https://discord.gg/VHZk33Z2WN/), 
-the 3D images are from a [Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2899093390/), the RPD images (3D version) are from the [DBD Fandom Wiki](https://deadbydaylight.fandom.com/wiki/Raccoon_City). 
+almost all 3D images are from a [Steam guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2899093390/), the RPD images (3D version) are from the [DBD Fandom Wiki](https://deadbydaylight.fandom.com/wiki/Raccoon_City). 
 
 
 ### Use: 
