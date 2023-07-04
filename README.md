@@ -8,7 +8,7 @@ almost all 3D images are from a [Steam guide](https://steamcommunity.com/sharedf
 
 ### Use: 
 Don't change the names of the subfolders of 2D maps & 3D maps or the images, you can change the name of the mainfolder though. 
-Once a new map gets released I'll try to add it as soon as possible, it might take a while tough (cause of the images). 
+Once a new map gets released I'll try to add it as soon as possible, it might take a while tough (cause of the images).  
 $${\color{red}The \space callouts \space for \space the \space two \space map \space versions \space (2D/3D) \space are \space different}$$ 
 That's why you have to choose which one you want to use as a team, the 2D version is the one that for example Hens' team uses, the 3D versions are easier to understand though (especially for beginners). There are generally no uniform callouts for the clock system, so it is quite common that different teams use different versions. 
 
